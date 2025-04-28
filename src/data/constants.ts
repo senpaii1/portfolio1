@@ -141,7 +141,7 @@ export const experiences = [
     img: "https://namahaom.com/assets/logo.png",
     role: "Software Engineer",
     company: "San Lak Services Pvt. Ltd.",
-    date: "October 2024 - Present",
+    date: "December 2024 - Present",
     desc: [
       "Developed a spiritual services platform for online and on-site Pooja bookings, leveraging Next.js and NestJS with optimized REST API caching for faster response times.",
       "Architected a scalable microservices-based backend using NestJS and Kafka, enabling real-time event-driven communication and improving system responsiveness by 40%.",
